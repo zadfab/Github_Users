@@ -33,4 +33,4 @@ Link to website : https://githubusersbyzadfab.netlify.app/
 
 ## Acknowledgments
 
-* GOt inspired from freecodecamp.org
+* Got inspired from freecodecamp.org
