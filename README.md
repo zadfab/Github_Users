@@ -9,7 +9,7 @@ This project totally build on reactJS and github api .
 * Search by number : 
 
       User can view all the user on github by searching with number on first page of site.
-30 users per request.
+      30 users per request.
 
 * Search by username :
 
