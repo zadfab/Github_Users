@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+    /* background-color: bisque; */
+   
+}
+
+.frame{
+    border-radius: 10px;
+    border: 1px solid black;
+    
+    
+
+}
+
+.user_img{
+    border-radius:5px;
+    border:1px solid black;
+  
+    width: 50%;
+    height:100%
+    
+}
+
+table, th, td {
+    
+    padding: 15px;
+    text-align: center;
+  }
