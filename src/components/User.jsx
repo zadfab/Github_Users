@@ -48,7 +48,7 @@ const User = ()=>{
         <div className="text-center container-fluid">
             <div className="row">
                 <div className="col-12 col-md-12 my-3">
-                    <h2>List Of Github Users</h2><NavLink to="myData"><span className="float-right"> <Button variant="contained" color="primary"> Seacrh by username
+                    <h2>List Of Github Users</h2><NavLink to="myData"><span className="float-right"> <Button variant="contained" color="primary"> Search by username
                                 </Button></span></NavLink>
                 </div>
             </div>
